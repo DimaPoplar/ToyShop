@@ -5,4 +5,4 @@
 5) mv "Имя Игрушки" "Игрушки"
 6) ls Игрушки
 7) sudo snap install vlc; sudo snap remove vlc
-8) crontab -e (добавить строку "*/3 * * * * cp /path/to/folderA/* /path/to/folderB/")
+8) crontab -e ("*/3 * * * * cp /path/to/folderA/* /path/to/folderB/")
